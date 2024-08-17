@@ -1,6 +1,5 @@
 # Java-Jenkins-Docker-K8
-Jenkins, Docker and Kubernetes implantation on Java app
-# kubernetes-configmap-reload
+Jenkins, Docker, and Kubernetes implementation on Java app
 
 Pre-requisites:
 --------
